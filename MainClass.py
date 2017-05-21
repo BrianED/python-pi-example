@@ -1,11 +1,10 @@
 def main(msg):
 
-    # another comment
-
-    # different comment
-
-    # print a comment
+    # Single comment
 
     print(msg)
+
+def secondary():
+    print("New function")
 
 main("hello")

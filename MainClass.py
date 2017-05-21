@@ -1,5 +1,7 @@
 def main(msg):
 
+    # another comment
+
     # different comment
 
     # print a comment
